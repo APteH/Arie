@@ -1,4 +1,9 @@
 /*
+I am almost 76 years old and started with Arduino abt 0.5 year ago.
+So, if you think I made mistakes, please report them.
+Any (positive) suggestion is very welcome
+
+  
   This small piece of software serves a remote control and opens or closes your Somfy shutters at programmed times.
   The used remote control is a universal model that must first be programmed for use as a Sompy control.
   The circuit further consists of a timer clock and a processor ATMega386P-PU with a 16Mhz x-tal.
