@@ -9,7 +9,7 @@ Any (positive) suggestion is very welcome
   The circuit further consists of a timer clock and a processor ATMega386P-PU with a 16Mhz x-tal.
   Make sure that the contacts of the built-in switch of the clock are free of mains voltage. If not, then Pfffft!
 
-  The timer clock contacts are connected to the input pin 11 with a pull-up resistor, and -32V (Gnd).
+  The timer clock contacts are connected to the input pin 11 with a pull-up resistor, and -3.2V (Gnd).
   The two outputs, 12 and 13 respectively, are directly connected to the pushbutton contacts of the remote control.
   Pull-up resistors are not required because they are already installed in the remote control at the factory.
   The timer switches the outputs at the programmed times, with a pulse of 1 second to -3.2V (Gnd), to simulate the pressing of a button.
